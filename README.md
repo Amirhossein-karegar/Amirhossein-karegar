@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm AmirHossein Karegar  
 
-<!--
-**Amirhossein-karegar/Amirhossein-karegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps & Network Security Specialist** with 6+ years of hands-on experience in designing, implementing, and securing network infrastructures across diverse organizations. Skilled in promoting DevOps culture and practices, automating infrastructure, and continuously learning new technologies in the fields of DevOps and IT operations.  
 
-Here are some ideas to get you started:
+💡 Currently preparing for the **IELTS certification** to strengthen international communication and global career opportunities.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats  
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUserName&theme=radical)  
+
+---
+
+### 🌐 Connect with me  
+
+📧 Email: amirhosyn.dev@gmail.com  
+📍 Location: Tehran, Iran  
