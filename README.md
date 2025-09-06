@@ -8,9 +8,9 @@
 
 ### 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUserName&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Amirhossein-karegar=YourAmirhossein-karegar&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Amirhossein-karegar=YourAmirhossein-karegar&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=YourAmirhossein-karegar&theme=radical)  
 
 ---
 
