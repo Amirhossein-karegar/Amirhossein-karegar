@@ -2,7 +2,6 @@
 
 🚀 **DevOps & Network Security Specialist** with 6+ years of hands-on experience in designing, implementing, and securing network infrastructures across diverse organizations. Skilled in promoting DevOps culture and practices, automating infrastructure, and continuously learning new technologies in the fields of DevOps and IT operations.  
 
-💡 Currently preparing for the **IELTS certification** to strengthen international communication and global career opportunities.  
 
 ---
 
